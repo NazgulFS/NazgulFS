@@ -1,6 +1,5 @@
 # My Profile:
-<img align="left" alt="unc" width="26px" src="https://cs.famaf.unc.edu.ar/~damian/bigdata/comun/logo%20UNC%20FAMAF%202016.svg"/>
-Computer Science Student
+<b>Computer Science Student</b>
 
 ### Licenses and certifications:
 
