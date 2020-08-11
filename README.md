@@ -1,5 +1,7 @@
 ### Licenses and certifications
-<img align="left" alt="FreeCodeCamp" width="26px" src="<img src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> Data Analysis with Python
+<img src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc992655f2-7dbb-43ef-b180-d87b5c6c259b/data-analysis-with-python-v7)
+<img src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
+
 
 ### Languages and Tools:
 
