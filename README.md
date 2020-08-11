@@ -1,5 +1,5 @@
 ### Licenses and certifications
-<img align="left" alt="FreeCodeCamp" width="26px" src="<img src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> /> Data Analysis with Python
+<img align="left" alt="FreeCodeCamp" width="26px" src="<img src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> Data Analysis with Python
 
 ### Languages and Tools:
 
