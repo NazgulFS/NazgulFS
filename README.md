@@ -1,5 +1,5 @@
 # My Profile:
-<img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/>
+<img align="left" alt="unc" width="26px" src="https://cs.famaf.unc.edu.ar/~damian/bigdata/comun/logo%20UNC%20FAMAF%202016.svg"/>
 Computer Science Student
 
 ### Licenses and certifications:
