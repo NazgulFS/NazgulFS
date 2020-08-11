@@ -1,7 +1,7 @@
 ### Licenses and certifications
-* <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc992655f2-7dbb-43ef-b180-d87b5c6c259b/data-analysis-with-python-v7)
-* <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
-* <img align="left" alt="Udemy" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"/> Machine Learning: Data Science with Python
+1. <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc992655f2-7dbb-43ef-b180-d87b5c6c259b/data-analysis-with-python-v7)
+2. <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
+3. <img align="left" alt="Udemy" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/udemy-1-logo-png-transparent.png"/> Machine Learning: Data Science with Python
 
 
 ### Languages and Tools:
