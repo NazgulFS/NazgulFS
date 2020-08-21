@@ -3,7 +3,7 @@
 
 ### Licenses and certifications:
 
-* <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> [Data Analysis with Python](https://www.freecodecamp.org/certification/fcc992655f2-7dbb-43ef-b180-d87b5c6c259b/data-analysis-with-python-v7)
+* <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> Data Analysis with Python
 
 * <img align="left" alt="FCC" width="26px" src="https://img.icons8.com/windows/32/000000/free-code-camp.png"/> JavaScript Algorithms and Data Structures
 
@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
-<img align="left" alt="Vuejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/vuejs/vuejs-original.svg" />
+<img align="left" alt="Vuejs" width="40" src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/react/react-original.svg" />
 <img align="left" alt="Angularjs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Nodejs" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="40" src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original.svg" 
